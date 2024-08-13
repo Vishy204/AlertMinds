@@ -13,6 +13,7 @@
 
 - **/Chatbot Code**
   - Contains the code and scripts for the FNN-based chatbot functionality.
-- **/YOLO Modell**
+- **/YOLO Model**
   - Holds the YOLO model and related scripts for analyzing the live camera feed.
-- \*\*/
+- **/TKinter Frontend**
+  - Files and scripts for the Tkinter-based frontend interface, including the dashboard.
